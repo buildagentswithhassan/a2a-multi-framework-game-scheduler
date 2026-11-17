@@ -1,4 +1,4 @@
-# A2A Friend Scheduling Demo
+# A2A Friend Scheduling
 
 ## Executive Summary
 
